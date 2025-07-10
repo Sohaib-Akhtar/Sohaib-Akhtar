@@ -1,7 +1,7 @@
 <div align="center">
 
-# SOHAIB.EXE
-### `> A curious DEV trying to bridge creativity and coding`
+# Hey Stranger!
+### `> Meet a curious DEV trying to bridge creativity and coding`
 
 ![cool](https://github.com/user-attachments/assets/c0f81fd3-cf4a-44e7-b63d-282fdb56cc66)
 
