@@ -49,8 +49,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║   Big time petrolhead to the abs extreme,           ║
-║  once stood under 45°C scorching sun for FREE       ║
+║   Big time petrolhead to the absolute extreme, for  ║
+║  I once stood under 45°C scorching sun for FREE     ║
 ║  entry to car show at age 11 (broke but determined) ║
 ╚══════════════════════════════════════════════════════╝
 ```
