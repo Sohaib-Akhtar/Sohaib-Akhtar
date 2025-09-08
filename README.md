@@ -42,22 +42,6 @@
 
 <div align="center">
 
-## ⚡ Fun fact
-
-</div>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║   Big time petrolhead to the absolute extreme, for  ║
-║  I once stood under 45°C scorching sun for FREE     ║
-║  entry to car show at age 11 (broke but determined) ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
 <div align="center">
@@ -83,7 +67,7 @@
 ┌─ FRONTEND ─────────────────────────────────────────────┐
 │  Angular • React • Next.js • Svelte • TypeScript      │
 ├─ BACKEND ──────────────────────────────────────────────┤
-│  Java • Spring • Python • GraphQL • Nest.js           │
+│  Java • Spring • Python • FastAPI • Nest.js           │
 ├─ DEVOPS ───────────────────────────────────────────────┤
 │  Docker • Kubernetes • Jenkins • AWS • Linux          │
 ├─ DESIGN ───────────────────────────────────────────────┤
