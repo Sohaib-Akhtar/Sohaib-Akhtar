@@ -7,10 +7,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=sohaib-akhtar&label=Profile%20views&color=ff00ff&style=for-the-badge" alt="profile-views" />
 
-<div style="background-color: white; padding: 20px; border-radius: 10px; display: inline-block;">
-<img src="https://github-profile-trophy.vercel.app/?username=sohaib-akhtar&no-frame=true&no-bg=true&margin-w=4" alt="sohaib-akhtar" />
-</div>
-
 </div>
 
 ---
