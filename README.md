@@ -5,13 +5,6 @@
 
 ![cool](https://github.com/user-attachments/assets/c0f81fd3-cf4a-44e7-b63d-282fdb56cc66)
 
-```
-┌─────────────────────────────────────────────────────┐
-│              NEURAL NETWORK: ACTIVE                 │
-│                 CREATIVITY: 100%                    │
-└─────────────────────────────────────────────────────┘
-```
-
 <img src="https://komarev.com/ghpvc/?username=sohaib-akhtar&label=Profile%20views&color=ff00ff&style=for-the-badge" alt="profile-views" />
 
 <div style="background-color: white; padding: 20px; border-radius: 10px; display: inline-block;">
@@ -31,11 +24,10 @@
 <div align="center">
 
 ```diff
-+ 🎯 ACTIVE PROJECT: AI-powered tune generator in Assetto Corsa
-+ 🧠 LEARNING: AI-integrations & neural networks
-+ 💼 PORTFOLIO: https://sohaib-dev.vercel.app/
-+ 📧 CONTACT: sohaib.akhtar.dev@gmail.com
-+ 📋 RESUME: https://tinyurl.com/sohaib-resume
++ ACTIVE PROJECT: AI-powered tune generator in Assetto Corsa with param adjusting
++ LEARNING: AI-integrations & neural networks
++ PORTFOLIO: https://sohaib-dev.vercel.app/
++ CONTACT: sohaib.akhtar.dev@gmail.com
 ```
 
 </div>
@@ -69,9 +61,9 @@
 ├─ BACKEND ──────────────────────────────────────────────┤
 │  Java • Spring • Python • FastAPI • Nest.js           │
 ├─ DEVOPS ───────────────────────────────────────────────┤
-│  Docker • Kubernetes • Jenkins • AWS • Linux          │
+│  Docker • Kubernetes • Jenkins • AWS                  │
 ├─ DESIGN ───────────────────────────────────────────────┤
-│  Figma                                                 │
+│  Figma • Adobe XD                                     │
 └────────────────────────────────────────────────────────┘
 ```
 
@@ -100,11 +92,8 @@
 ```
 ┌─────────────────────────────────────────────────────┐
 │           THANK YOU FOR VISITING MY DOMAIN          │
-│              KEEP CODING, KEEP CREATING             │
 │                    STAY CURIOUS                     │
 └─────────────────────────────────────────────────────┘
 ```
-
-**`> END OF TRANSMISSION`**
 
 </div>
