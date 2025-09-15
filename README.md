@@ -3,7 +3,7 @@
 # Hey Stranger!
 ### `> Meet a curious DEV trying to bridge creativity and coding`
 
-<img src="https://github.com/user-attachments/assets/c0f81fd3-cf4a-44e7-b63d-282fdb56cc66" alt="cool" width="500">
+<img src="https://github.com/user-attachments/assets/c0f81fd3-cf4a-44e7-b63d-282fdb56cc66" alt="cool" width="500"> <br/>
 
 <img src="https://komarev.com/ghpvc/?username=sohaib-akhtar&label=Profile%20views&color=ff00ff&style=for-the-badge" alt="profile-views"/>
 
