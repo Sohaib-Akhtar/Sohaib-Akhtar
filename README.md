@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey Stranger!
-### `> Meet a curious DEV trying to bridge creativity and coding`
+### `> Meet a curious DEV trying to bridge modern tech with actual usefulness`
 
 <img src="https://github.com/user-attachments/assets/c0f81fd3-cf4a-44e7-b63d-282fdb56cc66" alt="cool" width="500"> <br/>
 
@@ -13,14 +13,14 @@
 
 <div align="center">
 
-## 🔥 Current Endeavors
+## 💻 Current Endeavors
 
 </div>
 
 <div align="center">
 
 ```diff
-+ ACTIVE PROJECT: AI-powered tune generator in Assetto Corsa with param adjusting
++ ACTIVE PROJECT: AI-powered ECU tune generator in Assetto Corsa simulation game (private WIP)
 + LEARNING: AI-integrations & neural networks
 + PORTFOLIO: https://sohaib-dev.vercel.app/
 + CONTACT: sohaib.akhtar.dev@gmail.com
@@ -66,18 +66,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=angular,react,nextjs,svelte,typescript,java,spring,python,graphql,docker,kubernetes,jenkins,aws,linux,figma&theme=dark" />
 </p>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 My Github State
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaib-akhtar&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="sohaib-akhtar" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=sohaib-akhtar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="sohaib-akhtar" />
 
 </div>
 
